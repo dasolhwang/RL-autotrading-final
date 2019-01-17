@@ -5,9 +5,9 @@
     
 ## 나만의 암호화폐 알고리즘 트레이딩 플랫폼  
     
-![head](https://user-images.githubusercontent.com/32833990/51304012-65eeec80-1a7a-11e9-9a56-b71274fd7d2d.jpg)     
-![why](https://user-images.githubusercontent.com/32833990/51304147-aea6a580-1a7a-11e9-8f46-7b87d89892db.jpg)   
-<img width="1000" alt="summary" src="https://user-images.githubusercontent.com/32833990/51304328-2f65a180-1a7b-11e9-9815-2fe06b386d5e.png">  
+<img width="700" alt="head" src="https://user-images.githubusercontent.com/32833990/51304012-65eeec80-1a7a-11e9-9a56-b71274fd7d2d.jpg">  
+<img width="700" alt="why" src="https://user-images.githubusercontent.com/32833990/51304147-aea6a580-1a7a-11e9-8f46-7b87d89892db.jpg">  
+<img width="700" alt="summary" src="https://user-images.githubusercontent.com/32833990/51304328-2f65a180-1a7b-11e9-9815-2fe06b386d5e.png">  
   
   
       
@@ -25,11 +25,11 @@
     
     
 - 전체적인 강화학습 투자 알고리즘의 흐름  
-<img width="1000" alt="rf-ing" src="https://user-images.githubusercontent.com/32833990/51304186-c847ed00-1a7a-11e9-9daa-6b29a8d625d1.png">  
+<img width="700" alt="rf-ing" src="https://user-images.githubusercontent.com/32833990/51304186-c847ed00-1a7a-11e9-9daa-6b29a8d625d1.png">  
     
     
 - 강화학습 구간에 관한 아이디어  
-<img width="1000" alt="rf" src="https://user-images.githubusercontent.com/32833990/51303962-3f30b600-1a7a-11e9-9728-605617fa3106.png">  
+<img width="700" alt="rf" src="https://user-images.githubusercontent.com/32833990/51303962-3f30b600-1a7a-11e9-9728-605617fa3106.png">  
   
 - 투자하려는 현재 시장 상황과 비슷한 과거 구간을 학습한다면, 강화학습이 더 적절한 투자 판단을 할 것이라고 생각했습니다
 - 사용자가 직접 학습 구간을 설정할 수 있도록 하여 사용자의 주관이 들어간 투자가 가능하도록 하였습니다
